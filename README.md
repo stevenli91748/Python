@@ -1,6 +1,8 @@
 # Python
 
+# 视频
 
+* [2019 Python全套视频教程，史上最经典（193集）](https://www.bilibili.com/video/av61442372/?spm_id_from=333.788.videocard.12)
 
 
 # 有用的参考
