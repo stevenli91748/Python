@@ -3,7 +3,7 @@
 # 视频
 
 * [2019 Python全套视频教程，史上最经典（193集）](https://www.bilibili.com/video/av61442372/?spm_id_from=333.788.videocard.12)
-
+* [尚硅谷 Python 项目之谷粒教育 (1-100)](https://www.bilibili.com/video/av43861069/?spm_id_from=333.788.videocard.2)
 
 # 有用的参考
 * [如何系统地自学 Python？](https://www.zhihu.com/question/29138020/answer/550503434?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
