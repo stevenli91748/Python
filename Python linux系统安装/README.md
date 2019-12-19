@@ -25,6 +25,29 @@
        
  * 5  执行配置文件，编译，编译安装　　　　　　　　　　　　
 
-        [root]# cd Python-3.7.0
-        [root]# ./configure --prefix=/usr/local/python3
-        [root]#  make && make install      
+        [root]# cd Python-3.8.0
+        [root Python-3.8.0]# ./configure --prefix=/usr/local/python3
+        [root Python-3.8.0]#  make 
+        [root Python-3.8.0]#  make install 
+        
+        安装完成没有提示错误便安装成功了
+        
+  * 6. 建立软连接　　　　　　　　　　　　　　　　　　　　　
+
+        ln -s /usr/local/python3/bin/python3.8 /usr/bin/python3
+        ln -s /usr/local/python3/bin/pip3.8 /usr/bin/pip3     
+        
+  * 7   测试一下python3是否可以用　      
+  
+        [root Python-3.8.0]# python3
+        >>>exit()
+        
+        [root Python-3.8.0]# pip3 --version
+        pip--------------------------------------
+        
+        
+        
+        
+  
+  
+  
