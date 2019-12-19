@@ -35,6 +35,7 @@
   * 6. 建立软连接　　　　　　　　　　　　　　　　　　　　　
 
         ln -s /usr/local/python3/bin/python3.8 /usr/bin/python3
+        
         ln -s /usr/local/python3/bin/pip3.8 /usr/bin/pip3     
         
   * 7   测试一下python3是否可以用　      
