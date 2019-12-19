@@ -1,7 +1,7 @@
 # Python
 
 
-[Python linux系统安装]()|
+[Python linux系统安装](https://github.com/stevenli91748/Python/blob/master/Python%20linux系统安装/README.md)|
 ---|
 
 
