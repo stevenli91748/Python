@@ -1,5 +1,7 @@
 # Python
 
+[精尽 Python 学习指南](http://svip.iocoder.cn/Python/tutorials/)|
+---|
 
 [Python linux系统安装](https://github.com/stevenli91748/Python/blob/master/Python%20linux系统安装/README.md)|
 ---|
