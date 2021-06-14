@@ -12,7 +12,8 @@
 
 
 # 视频
- * [如何安装Python运行环境（详细解释过程）](https://www.bilibili.com/video/av79762360?from=search&seid=5156025386997566601)
+* [Python Full Course 2021   -- 12 hours](https://www.youtube.com/watch?v=XKHEtdqhLK8)
+* [如何安装Python运行环境（详细解释过程）](https://www.bilibili.com/video/av79762360?from=search&seid=5156025386997566601)
 * [2019 Python全套视频教程，史上最经典（193集）](https://www.bilibili.com/video/av61442372/?spm_id_from=333.788.videocard.12)
 * [尚硅谷 Python 项目之谷粒教育 (1-100)](https://www.bilibili.com/video/av43861069/?spm_id_from=333.788.videocard.2)
 * [python教程2019版 6小时完全入门 并且达到能开发网站的能力--english](https://www.bilibili.com/video/av75855831?from=search&seid=5156025386997566601)
