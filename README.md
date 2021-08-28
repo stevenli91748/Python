@@ -7,6 +7,25 @@
 ---|
 
 
+# 实战
+
+* [python高手养成记01：python如何快速入门](https://www.toutiao.com/a6816956514717139470/?log_from=d3a71103440d8_1630174835829)
+* [python高手养成记02：python开发环境安装](https://www.toutiao.com/a6816989031109231107/?log_from=a48e88984acf3_1630174888392)
+* [python高手养成记03：面向对象是什么？网友：能3天掌握一门语言](https://www.toutiao.com/a6816989671361348099/?log_from=03b15e6abb5a9_1630174920547)
+* [python高手养成记04：python的所有数据类型，一篇足矣](https://www.toutiao.com/a6817417431460348427/?log_from=720d64a242051_1630174939783)
+* [python高手养成记05：最详细的python函数教程](https://www.toutiao.com/a6818039998705566220/?log_from=db9d265aa8468_1630174978849)
+* [python高手养成记06：python的高级特性，溜到飞起的操作](https://www.toutiao.com/a6817418068549960195/?log_from=1e47e545f63f8_1630175673028)
+* [python高手养成记07：操作excel的4种神器](https://www.toutiao.com/a6817418595870441987/?log_from=d870e8c66419a_1630175700446)
+* [python高手养成记08：教你快速写出自己的python程序](https://www.toutiao.com/a6817419175242236420/?log_from=2caa926b0f9d5_1630175720245)
+* [python高手养成记09：python文件读写，收藏必备](https://www.toutiao.com/a6819207320795349511/?log_from=09ad3289b00a3_1630175739506)
+* [python高手养成记10：python操作内存必备方法](https://www.toutiao.com/a6819207856332472839/?log_from=0960fc89e0d45_1630175759372)
+* [python高手养成记11：python正则表达式必备手册](https://www.toutiao.com/a6819209639196885508/?log_from=6ad982d8a665_1630175778341)
+* [python高手养成记12：高手进阶必经之路，python多线程这样做](https://www.toutiao.com/a6819209340835070478/?log_from=875da2562f41f_1630175795653)
+* [python高手养成记13：python发送邮件](https://www.toutiao.com/a6820417135521563139/?log_from=0da16bd8751a7_1630175813442)
+* [python高手养成记14：python操作mysql，redis你要的全在这](https://www.toutiao.com/a6820394877700801036/?log_from=0e5082c4b5e86_1630175836900)
+* [python高手养成记15：想学会爬虫，这些点需提前掌握](https://www.toutiao.com/a6820915874359149064/?log_from=b921c7aad022b_1630175856506)
+* [python高手养成记16：终结篇，全网最全的pyhon教程附上](https://www.toutiao.com/a6821528830063149571/?log_from=8ad01e0680b17_1630175886872)
+
 
 
 
