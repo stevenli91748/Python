@@ -44,3 +44,7 @@
 * [Python技术知识清单](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/86764691)
 * [从入门到进阶，这份完整的Python学习书籍单供你收藏](https://blog.csdn.net/u012469528/article/details/79038324)
 
+
+# 有用的参考
+
+* [Python 异步编程入门](https://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)
