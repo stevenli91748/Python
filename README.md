@@ -1,12 +1,5 @@
 # Python
 
-# 极客教程系列  
-
-[Python](https://geek-docs.com/python)|[Scrapy](https://geek-docs.com/scrapy)|[Pandas](https://geek-docs.com/pandas)|[Numpy](https://geek-docs.com/numpy)|[Matplotlib](https://geek-docs.com/matplotlib)|[PyTorch](https://geek-docs.com/pytorch)|
----|---|---|---|---|---|
-
----
-
 [Python快速基础教程，Python入门教程（非常详细）](http://c.biancheng.net/python/)|[Python爬虫教程（从入门到精通）](http://c.biancheng.net/python_spider/)|
 ---|---|
 
@@ -18,6 +11,15 @@
 
 [Python linux系统安装](https://github.com/stevenli91748/Python/blob/master/Python%20linux系统安装/README.md)|
 ---|
+
+# 极客教程系列  
+
+[Python](https://geek-docs.com/python)|[Scrapy](https://geek-docs.com/scrapy)|[Pandas](https://geek-docs.com/pandas)|[Numpy](https://geek-docs.com/numpy)|[Matplotlib](https://geek-docs.com/matplotlib)|[PyTorch](https://geek-docs.com/pytorch)|
+---|---|---|---|---|---|
+
+---
+
+
 
 
 # 实战
