@@ -6,6 +6,11 @@
 [Matplotlib教程（非常详细）---Matplotlib 是 Python 中类似 MATLAB 的绘图工具](http://c.biancheng.net/matplotlib/)|[Django框架教程（非常细）---Django 是用 Python 开发的一个免费开源的 Web 框架](http://c.biancheng.net/django/)|
 ---|---|
 
+[Python机器学习算法入门教程](http://c.biancheng.net/ml_alg/)|
+---|
+
+---
+
 [精尽 Python 学习指南](http://svip.iocoder.cn/Python/tutorials/)|[Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)|
 ---|---|
 
