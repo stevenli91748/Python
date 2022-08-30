@@ -1,3 +1,7 @@
+
+# 30天学会Python编程语言
+* [30-Days-Of-Python](https://mp.weixin.qq.com/s/9xVPSc81ncm2KnMeruH-ow)
+
 # Python
 
 [Python快速基础教程，Python入门教程（非常详细）](http://c.biancheng.net/python/)|[Python爬虫教程（从入门到精通）](http://c.biancheng.net/python_spider/)|
