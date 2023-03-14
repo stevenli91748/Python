@@ -3,7 +3,7 @@
 * [30-Days-Of-Python](https://mp.weixin.qq.com/s/9xVPSc81ncm2KnMeruH-ow)
 
 # Python
-[纯干货！大厂的Python面试资源汇总](https://mp.weixin.qq.com/s/_k2C5DC68hWYmjEiBXUKfg)|[python 100 days--- good](https://github.com/Julie-Wang/jackfrued-Python-100-Days)|
+[纯干货！大厂的Python面试资源汇总](https://mp.weixin.qq.com/s/_k2C5DC68hWYmjEiBXUKfg)|[python 100 days--- good 从新手到大师](https://github.com/Julie-Wang/jackfrued-Python-100-Days)|
 ---|---|
 
 [Python快速基础教程，Python入门教程（非常详细）](http://c.biancheng.net/python/)|[Python爬虫教程（从入门到精通）](http://c.biancheng.net/python_spider/)|
