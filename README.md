@@ -19,6 +19,9 @@
 
 # 博客
 
+[Python教程---廖雪峰](https://www.liaoxuefeng.com/wiki/1016959663602400)|
+---|
+
 [精尽 Python 学习指南](http://svip.iocoder.cn/Python/tutorials/)|[Python 量化交易教程](https://www.kancloud.cn/wizardforcel/python-quant-uqer/186107)|[易百教程---人工智能（Python）教程 非常好](https://www.yiibai.com/?app=all)|
 ---|---|---|
 
