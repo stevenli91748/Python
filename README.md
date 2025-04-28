@@ -74,6 +74,15 @@
 * [Python技术知识清单](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/86764691)
 * [从入门到进阶，这份完整的Python学习书籍单供你收藏](https://blog.csdn.net/u012469528/article/details/79038324)
 
+# 目录
+* python 函数库
+  * [Pandas](https://github.com/stevenli91748/AI/tree/master/Python/pandas)
+  * [Matplotlib](https://github.com/stevenli91748/AI/tree/master/Python/Matplotlib)
+  * [NumPy](https://github.com/stevenli91748/AI/tree/master/Python/NumPy)
+* 量化交易教程
+  * [从零开始学Python大数据与量化交易](https://weread.qq.com/web/bookDetail/94d328f071a73ffc94dee0f)
+
+
 
 # 有用的参考
 
