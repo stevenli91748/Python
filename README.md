@@ -1,6 +1,7 @@
 
 # 30天学会Python编程语言
 * [30-Days-Of-Python](https://mp.weixin.qq.com/s/9xVPSc81ncm2KnMeruH-ow)
+* [小飞有点东西---python学习视频  每个视频只有几分钟，通俗易懂](https://space.bilibili.com/1803865534?spm_id_from=333.337.0.0)
 
 # Python
 [纯干货！大厂的Python面试资源汇总](https://mp.weixin.qq.com/s/_k2C5DC68hWYmjEiBXUKfg)|[python 100 days--- good 从新手到大师](https://github.com/Julie-Wang/jackfrued-Python-100-Days)|
