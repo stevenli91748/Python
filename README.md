@@ -1,8 +1,14 @@
 
 # 30天学会Python编程语言
-* [学习python 在线课程](https://coddy.tech/journeys/python/fundamentals/comments)
-* [30-Days-Of-Python](https://mp.weixin.qq.com/s/9xVPSc81ncm2KnMeruH-ow)
-* [小飞有点东西---python学习视频  每个视频只有几分钟，通俗易懂](https://space.bilibili.com/1803865534?spm_id_from=333.337.0.0)
+* [Python官方教程](https://docs.python.org/3/tutorial/index.html)
+
+《Python Crash Course》（《Python快速入门》）
+
+* [《Automate the Boring Stuff with Python》](https://automatetheboringstuff.com/)
+* （《Python自动化办公》） - 免费电子书
+
+* [Corey Schafer的YouTube频道](https://www.youtube.com/user/schafer5)
+
 
 # Python
 [纯干货！大厂的Python面试资源汇总](https://mp.weixin.qq.com/s/_k2C5DC68hWYmjEiBXUKfg)|[python 100 days--- good 从新手到大师](https://github.com/Julie-Wang/jackfrued-Python-100-Days)|
