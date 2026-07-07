@@ -1,5 +1,6 @@
 
 # 30天学会Python编程语言
+* [学习python 在线课程](https://coddy.tech/journeys/python/fundamentals/comments)
 * [30-Days-Of-Python](https://mp.weixin.qq.com/s/9xVPSc81ncm2KnMeruH-ow)
 * [小飞有点东西---python学习视频  每个视频只有几分钟，通俗易懂](https://space.bilibili.com/1803865534?spm_id_from=333.337.0.0)
 
