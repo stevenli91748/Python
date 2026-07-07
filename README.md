@@ -1,7 +1,7 @@
 
 # 30天学会Python编程语言
 * [Python官方教程](https://docs.python.org/3/tutorial/index.html)
-
+* [如何系统地自学 Python？](https://www.zhihu.com/question/29138020/answer/550503434?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 《Python Crash Course》（《Python快速入门》）
 
 * [《Automate the Boring Stuff with Python》](https://automatetheboringstuff.com/)
