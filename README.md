@@ -8,7 +8,9 @@
 * （《Python自动化办公》） - 免费电子书
 
 * [Corey Schafer的YouTube频道](https://www.youtube.com/user/schafer5)
-
+* [赫尔辛基大学的Python编程 — 包含文字和视频资料](https://programming-22.mooc.fi/exam-adv)
+* [哈佛大学CS50的Python编程入门](https://cs50.harvard.edu/python/)
+* [futurecoder — 交互式，包含集成调试器、增强型回溯、练习提示等等](https://futurecoder.io/course/#IntroducingTheShell)
 
 # Python
 [纯干货！大厂的Python面试资源汇总](https://mp.weixin.qq.com/s/_k2C5DC68hWYmjEiBXUKfg)|[python 100 days--- good 从新手到大师](https://github.com/Julie-Wang/jackfrued-Python-100-Days)|
