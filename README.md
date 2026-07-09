@@ -3,6 +3,7 @@
 * [python人工智能AI工程师---掌握常用数据分析模块numpy、pandas、matplotlib使用 掌握使用Python进行数据清洗、分类、建模和分析的技能 掌握机器学习必备算法原理](https://www.itdjs.com/8136/html)
 * [Python数据分析师2025](https://www.itdjs.com/8220/html)
 * [体系课 Python多领域工程师2025](https://www.itdjs.com/8093/html)
+* [GZ博士Python从零到就业全栈课(编程+爬虫+数据+自动化+前后端+算法)](https://www.itdjs.com/4491/html)
 # BOOK
 * [Python官方教程](https://docs.python.org/3/tutorial/index.html)
 * [如何系统地自学 Python？](https://www.zhihu.com/question/29138020/answer/550503434?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
